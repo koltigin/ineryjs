@@ -35,7 +35,7 @@ apt install npm
 ### Repoyu Klonlama
 
    ```
-   git clone https://github.com/herculessx/ineryjs.git
+   git clone https://github.com/koltigin/ineryjs.git
    ```
 
 ### Dizine Geçme
